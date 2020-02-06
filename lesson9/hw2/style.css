@@ -18,7 +18,7 @@
     margin: 0;
 }
 .nav-item{
-    display: inline-block;
+    float: left;
     margin-left: 16px;
     line-height: 40px;
     text-align: center; 
