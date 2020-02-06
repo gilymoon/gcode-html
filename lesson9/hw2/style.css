@@ -2,9 +2,16 @@
     position: fixed;
     background-color: darkturquoise;
     height: 40px;
+    width: 100%;
+    z-index: 2;
+    text-align: center; 
 }
 
-
+.nvgation{
+    position: relative;
+    
+     
+}
 
 .nav-list{
     height: 40px;
