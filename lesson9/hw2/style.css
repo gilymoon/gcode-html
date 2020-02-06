@@ -1,12 +1,14 @@
 .header {
+    position: fixed;
     background-color: darkturquoise;
     height: 40px;
 }
 
-.nvigation{
+
+
+.nav-list{
     height: 40px;
 }
-
 .nav-item{
     float: left;
     margin-left: 16px;
@@ -27,9 +29,10 @@
     width: 200px;
     height: 200px;
     background-color: aquamarine;
-    position: fixed;
+    position: absolute;
     left: 50%;
     top: 50%;
+    z-index: 0;
 
 }
 
@@ -72,6 +75,6 @@
 .eye_left{
     position: absolute;
     float: right;
-    margin-left: 60%;
+    margin-left: 65%;
     
 }
