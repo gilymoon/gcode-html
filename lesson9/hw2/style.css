@@ -14,8 +14,8 @@
 
 
 .nav-list{
-    line-height: 40px;
-    margin: 0;
+    height: 40px;
+    
 }
 .nav-item{
     display: inline-block;

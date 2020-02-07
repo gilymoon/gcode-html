@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    height: 40px;
+    background-color: yellow;
+    align-items: center;
+    
+
+}
+nav{
+    margin: 16px;
+}
+footer{
+    height: 40px;
+    background-color: green;
+}
+
+aside{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+    background-color: grey;
+    list-style-type: none;
+}
+section{
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    background-color: pink;
+    
+
+}
+main{
+    display: flex;
+    
+}
+
+.text1{
+    justify-content: center;
+    margin: 40%;
+    display: inline-block;
+}
+
+.list{
+    list-style-type: none;
+    line-height: 40px;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.news{
+    line-height: 40px;
+}
