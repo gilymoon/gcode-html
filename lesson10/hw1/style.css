@@ -1,3 +1,10 @@
+
+body{
+    
+    display: flex;
+ 
+ }
+
 .block {
     height: 300px;
    
@@ -23,8 +30,3 @@ background-color: red;
     background-color: black;
 }
 
-body{
-    display: flex;
-   
-
-}
