@@ -47,13 +47,16 @@
 .news_item {
     list-style-type: none;
     
-    line-height: 40px;
+   
 }
 
-.News{
+.mews{
     align-self: center;
 }
 
+.n_list{
+    line-height: 40px;
+}
 
 
 .news{
@@ -61,7 +64,7 @@
     flex-direction: column;
     width: 200px;
     background-color: grey;
-    list-style-type: none;
+    
     
     
 }
