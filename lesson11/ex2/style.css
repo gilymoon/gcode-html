@@ -17,8 +17,10 @@ div{
 
 .both-scrolls{
     overflow: scroll scroll ;
+    cursor: all-scroll;
 }
 
 .vertical-scroll{
     overflow: scroll;
+    cursor: all-scroll;
 }
