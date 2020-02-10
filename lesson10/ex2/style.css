@@ -50,14 +50,12 @@
    
 }
 
-.h_news{
-    align-self: center;
+.news-header {
+    text-align: center;
 }
-
-.n_list{
+.news_item {
     line-height: 40px;
 }
-
 
 .news{
     display: flex;
