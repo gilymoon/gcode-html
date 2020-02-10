@@ -44,7 +44,10 @@
     align-items: center;
 }
 
-
+.sidebar {
+    width: 200px;
+    background: grey;
+}
 
 .news-header {
     text-align: center;
@@ -52,15 +55,5 @@
 .news_item {
     line-height: 40px;
     list-style-type: none;
-}
-
-.news{
-    display: flex;
-    flex-direction: column;
-    width: 200px;
-    background-color: grey;
-    
-    
-    
 }
 
