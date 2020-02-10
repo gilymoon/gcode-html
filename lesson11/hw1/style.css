@@ -1,0 +1,15 @@
+div{
+    
+    margin: 16px;
+    border-bottom: 1px dotted black;
+
+}
+
+span{
+    
+    background-color: grey;
+    padding: 8px;
+    bottom: -40px;
+    border-radius: 4px;
+}
+
