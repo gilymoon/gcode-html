@@ -47,7 +47,7 @@
 .news_item {
     list-style-type: none;
     
-    
+    line-height: 40px;
 }
 
 .News{
@@ -63,6 +63,6 @@
     background-color: grey;
     list-style-type: none;
     
-    line-height: 40px;
+    
 }
 
