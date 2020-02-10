@@ -1,15 +1,19 @@
-div{
-    
+div {
+    position: absolute;
     margin: 16px;
     border-bottom: 1px dotted black;
-
 }
 
-span{
-    
-    background-color: grey;
-    padding: 8px;
+span {
+    position: relative;
     bottom: -40px;
+    background-color: grey;
     border-radius: 4px;
+    padding: 8px;
+    margin-left: 16px;
+    color: white;
+    display: none;
 }
 
+body:hover span {
+    display: inline-block;
