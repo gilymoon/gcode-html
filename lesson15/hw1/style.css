@@ -17,6 +17,7 @@
   width: 200px;
   background-color: bisque;
   font-size: 12px;
+  font-weight: 700;
   text-transform: uppercase;
   opacity: 0.5;
 }
