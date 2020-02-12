@@ -31,6 +31,7 @@
 
 .form-label{
     margin-top: 4px;
+    display: block;
 }
 
 .form-input{
