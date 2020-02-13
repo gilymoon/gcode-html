@@ -4,6 +4,7 @@
 
 table{
     margin: 16px;
+    background-color: black;
     
 }
 td, table{
@@ -17,14 +18,14 @@ td{
     
 }
 
-tr:nth-child(odd) td:nth-child(odd)
-{
-    background-color: black;
-}
-
 tr:nth-child(even) td:nth-child(even)
 {
-    background-color: black;
+    background-color: white;
+}
+
+tr:nth-child(odd) td:nth-child(odd)
+{
+    background-color: white;
 }
  
 
