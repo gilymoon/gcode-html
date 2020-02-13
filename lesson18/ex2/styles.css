@@ -2,6 +2,8 @@
     margin: 64px;
     width: 200px;
     height: 50px;
+    line-height: 50px;
+    text-align: center;
     background-color: coral;
     color: white;
     border-radius: 4px;
@@ -11,7 +13,7 @@
     border: none;
     outline: none;
     cursor: pointer;
-    text-align: center;
+    
 }
 .icon{
     width: 32px;
