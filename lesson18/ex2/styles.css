@@ -9,7 +9,9 @@
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
     border: none;
+    outline: none;
     cursor: pointer;
+    text-align: center;
 }
 .icon{
     width: 32px;
