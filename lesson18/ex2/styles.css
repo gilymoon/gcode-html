@@ -1,0 +1,28 @@
+.custom-button{
+    margin: 64px;
+    width: 200px;
+    height: 50px;
+    background-color: coral;
+    color: white;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+.icon{
+    width: 32px;
+    height: 32px;
+    fill: white;
+    vertical-align: middle;
+}
+
+.icon:hover{
+    fill: green;
+}
+
+.custom-button:hover{
+    color: darkcyan;
+}
+
