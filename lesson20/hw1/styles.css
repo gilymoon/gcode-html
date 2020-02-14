@@ -10,12 +10,13 @@
 
 .spinner{
     margin: auto;
-}
-
-.spinner-text{
     font-family: monospace;
     font-size: 16px;
     text-transform: uppercase;
+}
+
+.spinner-text{
+    
     animation: blinking 2s infinite linear;
 }
 
