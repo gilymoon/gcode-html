@@ -2,5 +2,5 @@
     width: 100px;
     height: 100px;
     background-color: tomato;
-    transform: translate(100px, 200px) rotate(45deg) scale(1.5);
+    transform: translate(200px, 100px) rotate(45deg) scale(1.5);
 }
