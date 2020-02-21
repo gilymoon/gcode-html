@@ -31,16 +31,9 @@ span{
 @media screen and (min-width:600px){
     .products{
         display: flex;
-        
+        flex-grow: 1;
     }
-    .navigation{
-        flex-grow: 2;
-        width: 50vw;
-    }
-    .products-list{
-        flex-grow: 2;
-        width: 50vw;
-    }
+    
 }
 
 @media screen and (min-width:900px){
