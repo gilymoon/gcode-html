@@ -49,15 +49,15 @@ span{
         
     }
     .navigation{
-        flex-grow: 2;
+        flex-grow: 3;
         width: 33vw;
     }
     .products-list{
-        flex-grow: 2;
+        flex-grow: 3;
         width: 33vw;
     }
     .news{
-        flex-grow: 1;
+        flex-grow: 2;
         width: 33vw;
     }
 }
