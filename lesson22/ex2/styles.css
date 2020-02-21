@@ -34,11 +34,11 @@ span{
         
     }
     .navigation{
-        
+        flex-grow: 2;
         width: 50vw;
     }
     .products-list{
-        
+        flex-grow: 2;
         width: 50vw;
     }
 }
