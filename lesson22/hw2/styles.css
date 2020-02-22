@@ -86,7 +86,7 @@ img{
     box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
 }
 
-@media sreen and(max-width:900px){
+@media screen and(max-width:900px){
     .main{
         display: flex;
         flex-wrap: wrap;
