@@ -2,9 +2,12 @@
   box-sizing: border-box;
 }
 
-@media screen and (orientation: landscape) {
+.container {
+  display: flex;
+}
+@media screen and (orientation: portrait) {
   .container {
-    display: flex;
+    flex-direction: column;
   }
 }
 
@@ -26,16 +29,14 @@ body {
     background-color: #8a2be2;
   }
 }
-
-@media screen and (min-width: 900px) {
-  .square {
-    background-color: #a61;
-  }
-}
-
 @media screen and (min-width: 1200px) {
   .square {
     background-color: #c47;
+  }
+}
+@media screen and (min-width: 900px) {
+  .square {
+    background-color: #a61;
   }
 }
 
